@@ -444,7 +444,7 @@ Please note that the current analysis has a few limitations include:
 
 - One of the variables chosen might be time-sensitive because we only take the median of the stringency index (i.e. the strictness of COVID-19 regulation of government) of each country while the original data of stringency index is reported as daily measurement. 
 
-- The model accuracy could still improve because there might be some other predictors or confounding variables that also play a role in predicting the outcomes. 
+- The model accuracy could still improve on accuracy because there might be some other predictors or confounding variables that also play a role in predicting the outcomes. 
 
 
 
